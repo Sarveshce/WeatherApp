@@ -20,7 +20,7 @@ Installation:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/sarveshsce/Weather_App.git
+git clone https://github.com/Sarveshce/WeatherApp.git
 Open the index.html file in your web browser to launch the Weather App.
 
 Usage:
